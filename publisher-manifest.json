@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "011f23d24db2b5a7b0a33be4",
+  "owner": "evckbvq",
+  "repo": "page-837b4daf81df639bd450de7e",
+  "title": "跃迁加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "837b4daf81df639bd450de7e",
+      "a": "跃迁加速",
+      "b": "2027官方最新地址导航",
+      "entity": "跃迁加速",
+      "brand": "跃迁加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "130ae6f5a28852fe0bd8d33cf0ca55ccd46b02d180f6fccb499d6c9974bb1790",
+      "content": {
+        "primary_entity": "跃迁加速",
+        "keyword1": "跃迁加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、iOS、Android 与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，让设备连接更顺畅。",
+          "AI_CLOSING_TITLE": "开启跃迁加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付 ¥15 起，年付更划算。每月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线，团队版还提供专属高带宽节点与定制路由。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度对比套餐，再按客户端文档完成配置。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备、每月 100GB；旗舰版支持 5 台设备、每月 300GB；团队版支持 20 台设备、每月 1000GB。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和画质有要求的用户。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可降低月均成本。",
+          "AI_FEATURE_TITLE_1": "按设备与流量选档",
+          "AI_FEATURE_TITLE_2": "专线优化场景",
+          "AI_FEATURE_TITLE_3": "月付与年付成本",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量，再对照套餐权益，最后在客户端导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "跃迁加速提供基础版、旗舰版与团队版订阅，覆盖个人到团队使用场景。按设备数量与月流量选择套餐，在常用客户端完成订阅配置即可开始使用。",
+          "AI_HERO_SUBTITLE": "跃迁加速，选对套餐更顺畅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付低至 ¥150/年",
+          "AI_HIGHLIGHT_3": "多设备同时在线支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，流量与设备数逐级提升，按需求对比即可。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常设备数量与每月流量需求，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限、线路类型与支持渠道，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按对应客户端文档导入，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_VISUAL_TITLE": "跃迁加速订阅入口",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度浏览与基础影音，旗舰版增加 IPLC 专线与流媒体解锁，团队版支持最多 20 台设备和高带宽节点，按在线设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台。多设备可选用团队版，或按需叠加多个订阅。",
+          "AI_FAQ_ANSWER_3": "年付相当于 10 个月价格，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用更划算。",
+          "AI_FAQ_ANSWER_4": "导入订阅后按客户端文档配置，支持路由器、电脑、手机等；不同系统设置方式略有差异，可参考对应客户端指南。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与优先工单，团队版含 VIP 高带宽节点和专属客户经理，适合对延迟和稳定性有要求的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "跃迁加速基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_QUESTION_4": "客户端如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "游戏加速有什么优势？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mashanjob.cn",
+    "host": "mashanjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "587965952a203133504f67e8b2f6b1dd470e78d3a0125106dca1a5110a778fe2",
+    "sitemap.xml": "1f0eadf852a65a467265637321e951cc8e8b7755349c8410c933d28a712091fb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "467bca2d57e3667290d32a27e637a81e85b2398dc73ce48a33176d56a4aeaa85",
+    "robots.txt": "3c3b6adce5d0c1028c98f1a3a1f699ee51e7c10b13dfd7eedf154ea40aba51ab",
+    "75e45d6d81fb4167741fe190220dffd9.txt": "f1503997537f21810e9d5f7bb55673ba4cb40120ed5472e24a0a21309eb7f267"
+  },
+  "revision": "f21d44c7ce880581f1726ef666b594ee96a5fa83f672d9285d44761a84fdf3ad"
+}
